@@ -1,6 +1,15 @@
 # eOS-Doc
 
-Documentation for eOS
+***After the deepest darkness before the dawn (SkotOS) comes the first glimmerings of the rosy-fingered dawn (eOS)***
+
+eOS runs on top of a stack of other technology, including:
+
+* [DGD and its language, LPC](https://ChatTheatre.github.io/lpc-doc)
+* [The DGD Kernellib](https://ChatTheatre.github.io/kernellib-doc)
+
+eOS is an attempt to reproduce some of the functionality of [SkotOS](https://ChatTheatre.github.io/SkotOS-Doc) from a simpler, more minimal background. SkotOS has enormous, tightly-integrated functionality, while eOS is an attempt to make more modular, detachable systems from a minimal base.
+
+* [Installing eOS](./installing.html)
 
 ## Copyright & Status
 
