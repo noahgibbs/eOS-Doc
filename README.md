@@ -9,7 +9,7 @@ eOS runs on top of a stack of other technology, including:
 
 eOS is an attempt to reproduce some of the functionality of [SkotOS](https://ChatTheatre.github.io/SkotOS-Doc) from a simpler, more minimal background. SkotOS has enormous, tightly-integrated functionality, while eOS is an attempt to make more modular, detachable systems from a minimal base.
 
-* [Installing eOS](./installing.html)
+* [Installing eOS](./installing.md)
 
 ## Copyright & Status
 
